@@ -7,6 +7,10 @@ every Friday at 6:00 am oclock”.
 
 ![Image description](https://github.com/Doriyaspielman/ToolsRunner-client/blob/master/clock_img.JPG)
 
+When the clock hits the time entered a post request will be sent to a
+kotlin server. 
+When we get the response back we can see the data received in a table.
+
 ## Project setup
 ```
 npm install
